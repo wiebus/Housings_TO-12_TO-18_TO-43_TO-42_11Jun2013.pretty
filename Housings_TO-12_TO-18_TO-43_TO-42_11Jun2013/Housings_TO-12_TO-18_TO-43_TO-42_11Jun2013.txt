@@ -1,0 +1,27 @@
+# About  the file
+Housings_TO-12_TO-18_TO-43_TO-42_11Jun2013.pretty
+
+
+Contains the KiCAD module/footprint of some
+TO-12/TO-18/TO-43 and TO-72 housings.
+
+TO-12_TO-33_4Pin_Housing_11Jun2013
+TO-18_2Pin_Housing_11Jun2013
+TO-18_3Pin_Housing_11Jun2013
+TO-43_3Pin_Housing_11Jun2013
+TO-72_4Pin_Housing_11Jun2013
+
+There is also a file "TO-12_TO-18_TO-43_TO-42_Housings_11Jun2013.pdf" which contains 
+a pdf preview of the footprints.
+
+At the folder "TO-12_TO-18_TO-43_TO-42_Housings_Wings3D_WRL_11Jun2013" you will also find some 
+wings3d / .WRL files with mesh models.
+
+For suggestions and improvements please contact me at
+bernd.wiebus@gmx.de
+
+Author: Bernd Wiebus / Uedem / Germany / 11 June 2013
+Licence: CC-Zero / Public Domain / NO RESTRICTION !
+NO WARRANTY!
+
+
